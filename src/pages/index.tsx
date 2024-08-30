@@ -210,7 +210,7 @@ export default function Home() {
                 data-scroll-speed=".06"
                 className="mt-1 max-w-lg tracking-tight text-muted-foreground 2xl:text-xl"
               >
-                An experienced full-stack website developer with a passion for
+                An Frontend webapp developer with a passion for
                 crafting unique digital experiences.
               </p>
             </div>
@@ -220,7 +220,7 @@ export default function Home() {
               data-scroll-speed=".06"
               className="flex flex-row items-center space-x-1.5 pt-6"
             >
-              <Link href="mailto:wendoj@proton.me" passHref>
+              <Link href="mailto:hamzamunawar345@gmail.com" passHref>
                 <Button>
                   Get in touch <ChevronRight className="ml-1 h-4 w-4" />
                 </Button>
