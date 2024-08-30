@@ -79,12 +79,7 @@ const services = [
       "Building intuitive, user-centric designs that drive engagement and conversion.",
     icon: Frame,
   },
-  {
-    service: "SEO Optimization",
-    description:
-      "Enhancing your website's visibility in search engines for increased organic traffic.",
-    icon: SearchCheck,
-  },
+  
   {
     service: "Responsive Design",
     description:
@@ -92,9 +87,9 @@ const services = [
     icon: MonitorSmartphone,
   },
   {
-    service: "Backend Development",
+    service: "Quality Assurance",
     description:
-      "Developing robust, scalable server-side logic for a wide range of web applications.",
+      "Expert in identifying issues and ensuring software reliability and performance.",
     icon: Eye,
   },
 ];
@@ -446,7 +441,7 @@ export default function Home() {
               I&apos;m currently available for freelance work and open to
               discussing new projects.
             </p>
-            <Link href="mailto:wendoj@proton.me" passHref>
+            <Link href="mailto:hamzamunawar345@gmail.com" passHref>
               <Button className="mt-6">Get in touch</Button>
             </Link>
           </div>
